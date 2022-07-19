@@ -63,10 +63,10 @@ header h1 {
   box-shadow: 0 4px 8px 0 rgba(218, 201, 201, 0.2), 0 6px 20px 0 rgba(201, 201, 201, 0.17);
 }
 
-.results .result h3:hover {
+/* .results .result h3:hover {
   background: #ffffff;
   color: #222334;
-}
+} */
 
 .results .result img {
   padding: 0;
@@ -186,11 +186,11 @@ header h1 {
     background: #4484c4;
 }
 
-.detail .content .about:hover {
+/* .detail .content .about:hover {
     background: #223343;
-    /* padding-top: 15px; */
+    padding-top: 15px;
     opacity: 0.8;
-  }
+  } */
 
   @media screen and (max-width: 1015px) {
     .results {
@@ -224,6 +224,10 @@ header h1 {
   @media screen and (max-width: 645px) {
     .results .result {
         margin: 8px;
+    }
+
+    .detail .content {
+      padding: 20px 50px 0 50px;
     }
   }
 
