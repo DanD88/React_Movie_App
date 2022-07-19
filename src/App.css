@@ -227,7 +227,7 @@ header h1 {
     }
 
     .detail .content {
-      padding: 30px 50px 0 40px;
+      padding: 30px 35px 0 35px;
     }
   }
 
@@ -251,7 +251,7 @@ header h1 {
     .detail .content .close {
         width: 100%;
         display: flex;
-        margin: auto;
+        margin-bottom: 2rem;
         justify-content: center;
         align-items: center;
     }
