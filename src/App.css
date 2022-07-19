@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: fantasy;
   background: #0e1723;
 }
 
@@ -60,7 +60,7 @@ header h1 {
 }
 
 .result:hover {
-  box-shadow: 0 0 6px 2px #626d83;
+  box-shadow: 0 4px 8px 0 rgba(218, 201, 201, 0.2), 0 6px 20px 0 rgba(201, 201, 201, 0.17);
 }
 
 .results .result h3:hover {
@@ -71,7 +71,7 @@ header h1 {
 .results .result img {
   padding: 0;
   margin: 0 auto;
-  height: 500px;
+  height: 450px;
   width: 300px;
   border-radius: 10px;
 }
@@ -166,7 +166,7 @@ header h1 {
 
 .detail .content .close {
     display: flex;
-    width: 100%;
+    width: 60%;
     margin: auto;
     justify-content: center;
     padding: 15px 30px;
