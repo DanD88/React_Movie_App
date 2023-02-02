@@ -148,13 +148,13 @@ header h1 {
   padding: 2rem;
   padding-top: 0;
   padding-bottom: 0.5rem;
-  letter-spacing: .3rem;
+  letter-spacing: .1rem;
 }
 
 .detail .content span {
   font-size: 1.4rem;
   margin-left: 2rem;
-  margin-bottom: 3rem;
+  /* margin-bottom: 3rem; */
 }
 
 .detail .content .rating {
