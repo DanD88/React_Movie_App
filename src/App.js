@@ -68,6 +68,11 @@ function App() {
           false
         )}
       </main>
+      <section className="footer">
+        <span>
+         
+        </span>
+      </section>
     </div>
   );
 }
