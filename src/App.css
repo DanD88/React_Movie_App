@@ -139,7 +139,7 @@ header h1 {
   border-radius: 20px;
   padding: 20px 0;
   opacity: 0.7;
-  /* overflow-y: scroll; */
+  overflow-y: scroll;
 }
 
 .detail .content h2 {
